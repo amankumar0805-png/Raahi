@@ -1,0 +1,6 @@
+{
+  "name": "ExploreLocal AI",
+  "description": "Explore Beyond the Famous. Discover the Real India. AI-powered local tourism discovery platform for hidden gems, culture, heritage, food, and personalized trip planning across Indian states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
